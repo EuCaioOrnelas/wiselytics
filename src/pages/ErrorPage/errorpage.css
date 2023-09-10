@@ -1,0 +1,18 @@
+.erropage {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.erropage h1 {
+  font-size: 150px;
+  margin: 0;
+}
+
+.erropage p {
+  font-size: 26px;
+  margin: 0;
+}
